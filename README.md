@@ -3,7 +3,7 @@
 📊 **Module:** Statistics  
 🎓 **Course:** MSc in Data Analytics  
 🏫 **Institution:** Dublin Business School (DBS), Ireland  
-📅 **Academic Year:** [Your Year Here]
+📅 **Academic Year:** 2024-25
 
 ---
 
@@ -39,3 +39,23 @@ Key steps in the analysis:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/statistics-assignment-DBS.git
+
+✏️ Author
+Delvin Vallooran Jose
+
+MSc in Data Analytics, DBS College, Ireland
+
+⚖️ License
+This project is for educational purposes only.
+
+
+---
+
+## ✅ **What to do now**
+
+1. Save this as **`README.md`** in your project folder.
+2. Run:
+   ```bash
+   git add README.md
+   git commit -m "Add README.md"
+   git push origin main
